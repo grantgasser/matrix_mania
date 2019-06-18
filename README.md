@@ -1,9 +1,8 @@
 # Matrix Mania
+This project is being done as a personal introduction to creating Python packages and making them available with PyPi.
 
 ### Author: Grant Gasser
 
-### Summary
-A matrix package with basic operations such as addition, subtraction, and multiplication.
+# Files 
 
-### Motivation
-This project is being done as a personal introduction to creating Python packages and making them available with PyPi.
+# Installation
