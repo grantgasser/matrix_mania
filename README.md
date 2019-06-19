@@ -7,8 +7,8 @@ This package performs basic operations on mathematical (m x n) matrices such as 
 `pip install matrix-mania`
 
 ## Files 
-matrix_mania/Matrix.py: contains the Matrix class
-matrix_mania/test.py: contains unit tests for the Matrix class
+* matrix_mania/Matrix.py: contains the Matrix class
+* matrix_mania/test.py: contains unit tests for the Matrix class
 
 ### Important Links
 * Source Code Repo: https://github.com/grantgasser/matrix_mania
