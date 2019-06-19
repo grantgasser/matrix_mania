@@ -5,5 +5,5 @@ setup(name='matrix_mania',
       description='Basic Matrix Operations',
       packages=['matrix_mania'],
       author='Grant Gasser',
-      author_email='glgasser@gmail.com'
+      author_email='glgasser@gmail.com',
       zip_safe = False)

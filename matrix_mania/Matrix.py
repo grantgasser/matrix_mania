@@ -137,8 +137,4 @@ class Matrix:
         """
         return str(self.data)
     
-
-        
-                
-        
         
