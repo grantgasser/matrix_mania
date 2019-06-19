@@ -9,6 +9,7 @@ This package performs basic operations on mathematical (m x n) matrices such as 
 ## Files 
 * matrix_mania/Matrix.py: contains the Matrix class
 * matrix_mania/test.py: contains unit tests for the Matrix class
+* matrix_mania/sample.py: contains some sample code to demonstrate the matrix-mania package
 
 ### Important Links
 * Source Code Repo: https://github.com/grantgasser/matrix_mania
