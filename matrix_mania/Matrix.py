@@ -1,3 +1,6 @@
+## Author: Grant Gasser
+## Last Update: 6/20/2019
+
 class Matrix:
     
     def __init__(self, m = 2, n = 2):
