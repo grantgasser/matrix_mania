@@ -9,17 +9,17 @@ This package performs basic operations on mathematical (m x n) matrices such as 
 ## Example Code
 * See matrix_mania/sample.py for more 
 ### Import package
-`
+```
 import matrix_mania as mm
 mat = mm.Matrix()
-`
+```
 
 ### Add values to the matrix
-`
+```
 for i in range(2):
     for j in range(2):
         mat.insert_value_given_index(i, j, 1)
-`
+```
 
 ## Files
 * matrix_mania/Matrix.py: contains the Matrix class
